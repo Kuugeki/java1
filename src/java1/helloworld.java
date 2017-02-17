@@ -9,14 +9,12 @@ package java1;
  *
  * @author ryuujin
  */
-public class Java1 {
-    
-    public Java1() {
+public class helloworld {
+    public helloworld() {
         
     }
     
     public String sayHi() {
         return "Hello World";
     }
-    
 }
